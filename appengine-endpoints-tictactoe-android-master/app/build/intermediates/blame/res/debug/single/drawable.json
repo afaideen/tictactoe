@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\github\\gcp\\tictactoe\\appengine-endpoints-tictactoe-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\e1c46fa4b91ea8006332a43a66d3725a2c55e425\\output\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\github\\gcp\\tictactoe\\appengine-endpoints-tictactoe-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\e1c46fa4b91ea8006332a43a66d3725a2c55e425\\output\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\github\\gcp\\tictactoe\\appengine-endpoints-tictactoe-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\e1c46fa4b91ea8006332a43a66d3725a2c55e425\\output\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\github\\gcp\\tictactoe\\appengine-endpoints-tictactoe-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\e1c46fa4b91ea8006332a43a66d3725a2c55e425\\output\\res\\drawable\\common_signin_btn_text_dark.xml"
+    }
+]

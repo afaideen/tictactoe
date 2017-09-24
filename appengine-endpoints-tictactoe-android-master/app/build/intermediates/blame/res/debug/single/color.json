@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\github\\gcp\\tictactoe\\appengine-endpoints-tictactoe-android-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\9572f438988699bc51276c7a987eb46e897e216f\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\github\\gcp\\tictactoe\\appengine-endpoints-tictactoe-android-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\e1c46fa4b91ea8006332a43a66d3725a2c55e425\\output\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\github\\gcp\\tictactoe\\appengine-endpoints-tictactoe-android-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\e1c46fa4b91ea8006332a43a66d3725a2c55e425\\output\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\github\\gcp\\tictactoe\\appengine-endpoints-tictactoe-android-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\9572f438988699bc51276c7a987eb46e897e216f\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    }
+]

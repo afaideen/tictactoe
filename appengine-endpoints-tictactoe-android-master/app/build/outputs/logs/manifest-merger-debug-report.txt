@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:7.0.0] C:\Users\han\.android\build-cache\7e7c5cc18aaaf7ba8e07979d1f7f36614364d38d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] C:\Users\han\.android\build-cache\e68fe6d1e52582c94485df52d1f982dc887ea57c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] C:\Users\han\.android\build-cache\ae3b8c323c88afaf055cf3a0e9ccb5cd84c6c868\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] C:\Users\han\.android\build-cache\6cfcb4d3783782060b1a6bb794e239d7078524c5\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] C:\Users\han\.android\build-cache\87ae071216b77d4b2a0cbc35f569f3a4cb71fe13\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] C:\Users\han\.android\build-cache\20c2b4a35affcee9d0a5ae5bee1a49df6c282e07\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] C:\Users\han\.android\build-cache\b6fea32bca3f3beb82c95cf8a7a3b98964771fa4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.0.0] C:\Users\han\.android\build-cache\86f1935684d36dbe7f433d75aa140779c64c0cfa\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] C:\Users\han\.android\build-cache\a9c167296533679aca973afe0d18b4b56e01207d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] C:\Users\han\.android\build-cache\eba1fea74bd86488ec7c79deaaa056c28043f337\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.0.0] C:\Users\han\.android\build-cache\74d9118aa27c3d37725bf3d5c208603df72db0d2\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] C:\Users\han\.android\build-cache\9849837be0f405b1ad964df27e8b6489083a2cc5\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] C:\Users\han\.android\build-cache\c59514f8092ccd9ff9810b07d878e22121bb18e9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] C:\Users\han\.android\build-cache\e7d18948b336c2a85d633554fc1413b07c17ad68\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] C:\Users\han\.android\build-cache\6c00e20e62dec033359a9c9fe2ca51ed557f604f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] C:\Users\han\.android\build-cache\9572f438988699bc51276c7a987eb46e897e216f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] C:\Users\han\.android\build-cache\05293399500755afad8bdb373b444a18e300f9dd\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\han\.android\build-cache\ce2a82e284c06057a03352fbe945dd95a1bcd823\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] C:\Users\han\.android\build-cache\a54d341b093bda6e2d498f95f88b9c9b906272a5\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\han\.android\build-cache\e1c46fa4b91ea8006332a43a66d3725a2c55e425\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\han\.android\build-cache\ba4760a2cbe240418f214b72c3d0f6d68589035c\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:16:22-77
+application
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:18:5-31:19
+MERGED from [com.google.android.gms:play-services:7.0.0] C:\Users\han\.android\build-cache\7e7c5cc18aaaf7ba8e07979d1f7f36614364d38d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] C:\Users\han\.android\build-cache\e68fe6d1e52582c94485df52d1f982dc887ea57c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] C:\Users\han\.android\build-cache\ae3b8c323c88afaf055cf3a0e9ccb5cd84c6c868\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] C:\Users\han\.android\build-cache\6cfcb4d3783782060b1a6bb794e239d7078524c5\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] C:\Users\han\.android\build-cache\87ae071216b77d4b2a0cbc35f569f3a4cb71fe13\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] C:\Users\han\.android\build-cache\20c2b4a35affcee9d0a5ae5bee1a49df6c282e07\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] C:\Users\han\.android\build-cache\b6fea32bca3f3beb82c95cf8a7a3b98964771fa4\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.0.0] C:\Users\han\.android\build-cache\86f1935684d36dbe7f433d75aa140779c64c0cfa\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] C:\Users\han\.android\build-cache\a9c167296533679aca973afe0d18b4b56e01207d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] C:\Users\han\.android\build-cache\eba1fea74bd86488ec7c79deaaa056c28043f337\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.0.0] C:\Users\han\.android\build-cache\74d9118aa27c3d37725bf3d5c208603df72db0d2\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] C:\Users\han\.android\build-cache\9849837be0f405b1ad964df27e8b6489083a2cc5\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] C:\Users\han\.android\build-cache\c59514f8092ccd9ff9810b07d878e22121bb18e9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] C:\Users\han\.android\build-cache\e7d18948b336c2a85d633554fc1413b07c17ad68\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] C:\Users\han\.android\build-cache\6c00e20e62dec033359a9c9fe2ca51ed557f604f\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] C:\Users\han\.android\build-cache\9572f438988699bc51276c7a987eb46e897e216f\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] C:\Users\han\.android\build-cache\05293399500755afad8bdb373b444a18e300f9dd\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\han\.android\build-cache\ce2a82e284c06057a03352fbe945dd95a1bcd823\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] C:\Users\han\.android\build-cache\a54d341b093bda6e2d498f95f88b9c9b906272a5\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\han\.android\build-cache\e1c46fa4b91ea8006332a43a66d3725a2c55e425\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\han\.android\build-cache\ba4760a2cbe240418f214b72c3d0f6d68589035c\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:19:9-45
+activity#com.google.devrel.samples.ttt.TictactoeActivity
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:screenOrientation
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:22:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\src\main\AndroidManifest.xml:28:27-74
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\han\.android\build-cache\e1c46fa4b91ea8006332a43a66d3725a2c55e425\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\han\.android\build-cache\e1c46fa4b91ea8006332a43a66d3725a2c55e425\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\han\.android\build-cache\e1c46fa4b91ea8006332a43a66d3725a2c55e425\output\AndroidManifest.xml:22:13-58

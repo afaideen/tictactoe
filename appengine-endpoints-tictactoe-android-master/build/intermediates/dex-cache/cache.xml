@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe6c8df109b853892280955bcd201b5ccf523001">
+        <dex dex="D:\github\gcp\tictactoe\appengine-endpoints-tictactoe-android-master\app\build\intermediates\pre-dexed\debug\backend-android-endpoints_ae95668bb12e86c94ece0547704b1be85e97e454.jar" />
+    </item>
+
+</items>
